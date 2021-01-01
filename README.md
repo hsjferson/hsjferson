@@ -1,5 +1,4 @@
- ### Hi, I'm Jeferson 👋
- 
+ ### Hi, I'm Jeferson 👋 
 <p align='left'>
   
   <a href="https://api.whatsapp.com/send?phone=5543984464594&text=">
@@ -13,16 +12,8 @@
   </a>&nbsp;&nbsp;
   
 </p>
+ 
+ This is where I open things and break things :rofl:
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on something cool :wink:
+- 💬 Ask me about anything related to Javascript/Typescript/React-Native/FireBase/NodeJs/Flutter
