@@ -1,4 +1,4 @@
- ### Hi there wave I'm Jeferson 👋
+ ### Hi, I'm Jeferson 👋
  
 <p align='left'>
   
