@@ -13,7 +13,7 @@
   
 </p>
  
- This is where I open things and break things :rofl:
+This is where I code and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 - 💬 Ask me about anything related to Javascript/Typescript/React-Native/FireBase/NodeJs/Flutter
