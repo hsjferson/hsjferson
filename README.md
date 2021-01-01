@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter Badge] 
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 
 https://www.instagram.com/_jeferson.slv/
 
