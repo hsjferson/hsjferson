@@ -1,6 +1,6 @@
  ### Hi there wave I'm Jeferson 👋
  
-<p align='center'>
+<p align='left'>
   
   <a href="https://api.whatsapp.com/send?phone=5543984464594&text=">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
