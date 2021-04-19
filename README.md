@@ -1,6 +1,6 @@
  ### Hi, I'm Jeferson <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
  
-![gif](https://cdn.dribbble.com/users/1035899/screenshots/3593610/rocket-space-flat-3d.gif alt="drawing" width="200")
+![gif](https://cdn.dribbble.com/users/1035899/screenshots/3593610/rocket-space-flat-3d.gif =250x)
  
 <p align='left'>
   
