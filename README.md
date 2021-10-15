@@ -20,4 +20,4 @@
 #### This is where I code and break things :rofl:
 - 📍 From SC living in Londrina
 - 🔭 I’m currently working on something cool
-- 💬 Ask me about anything related to Javascript/Typescript/React-Native/FireBase/NodeJs/Flutter
+- 💬 Ask me about anything related to Javascript/Typescript/React-Native/FireBase/NodeJs
