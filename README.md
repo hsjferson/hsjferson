@@ -14,5 +14,4 @@
   
 </p>
  
-#### This is where I code and break things :rofl:
 - 📍 From SC living in Londrina
