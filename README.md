@@ -14,4 +14,4 @@
   
 </p>
  
-- 📍 From SC living in Araucaria
+- 📍 From SC living in Londrina
