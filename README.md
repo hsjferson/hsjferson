@@ -14,7 +14,7 @@
   
 </p>
  
-- 📍 From SC living in Londrina
+- 📍 Londrina - PR
 
 Olá, sou Jeferson,
 
