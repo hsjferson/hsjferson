@@ -24,12 +24,21 @@ Minha expertise são:
 
 ● Qualidade e Automação: Karate DSL, JMeter, Cypress, Selenium, Playwright, K6, Appium, Robot
 Framework; validações funcionais, integração, regressão, end-to-end (E2E) e análise estática.
+
 ● Não Funcionais (NFT): Performance, carga, stress e usabilidade.
+
 ● Planejamento de Qualidade: Critérios de aceite, escrita de casos, planos e ciclos de validação.
+
 ● APIs: Validação de serviços REST e SOAP.
+
 ● Dev Tools: Grafana , Jenkins , CI/CD, Git , GitHub , Docker , Rancher, New Relic e Graylog.
+
 ● Ferramentas de API: Postman e Insomnia.
+
 ● Programação: JavaScript , Java , Python e PHP.
+
 ● Banco de Dados: MySQL , PostgreSQL e modelagem de dados (ERD).
+
 ● Ferramentas e Plataformas: RabbitMQ , Jira Software e Figma.
+
 ● Sistemas Operacionais: Windows e Linux.
